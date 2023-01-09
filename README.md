@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Keyur Nagar persuing B.Tech in Computer science and engineering.
+
 <!--
 **Keyur3766/Keyur3766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
