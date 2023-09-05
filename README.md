@@ -10,9 +10,9 @@ I am Keyur Nagar persuing B.Tech in Computer science and engineering. An excelle
 
 <br>
 
-🔭 I’m currently working on **ASP.net** and various Web Applications.  
+🔭 I’m currently working on **ASP.NET, NodeJS, ReactJS** and various Web Applications.  
 
-🌱 I’m currently learning **Blockchain technologies** and **Distributed systems**. 
+🌱 I’m currently learning **Blockchain technologies, Smart Contracts** and **Distributed systems**. 
 
 📫 All of the projects created by me is always available for your help 😁. 
 
