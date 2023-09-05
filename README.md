@@ -12,11 +12,11 @@ I am Keyur Nagar persuing B.Tech in Computer science and engineering. An excelle
 
 🔭 I’m currently working on **ASP.net** and various Web Applications.  
 
-🌱 I’m currently learning **Data structures and Algorithms** and **Application Developement**. 
+🌱 I’m currently learning **Blockchain technologies** and **Distributed systems**. 
 
 📫 All of the projects created by me is always available for your help 😁. 
 
-⚡ Solved 500+ DSA questions on various platforms.   
+⚡ Solved 800+ DSA questions on various platforms.   
 
 
 
