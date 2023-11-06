@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Keyur Nagar persuing B.Tech in Computer science and engineering. An excellent problem solver and a passionate web developer who is enthusiastic, punctual, and responsible. A 3‐star coder at Codechef, adaptable to solving challenging problems, and looking for a role where I can grow and learn from the experts.
+I am Keyur Nagar, currently working as a Software Engineer at Injala Inc. I am B.Tech Graduate in Computer science and engineering from Ahmedabad University. An excellent problem solver and a passionate web developer who is enthusiastic, punctual, and responsible. I am adaptable to solving challenging problems, and looking for a role where I can grow and learn from the experts.
 
 
 <br> 
