@@ -10,9 +10,9 @@ I am Keyur Nagar, currently working as a Software Engineer at Injala Inc. I am B
 
 <br>
 
-🔭 I’m currently working on **ASP.NET, NodeJS, ReactJS** and various Web Applications.  
+🔭 I’m currently working on **ExpressJS, NodeJS, ReactJS, AngularJS, NextJS** and various Web Applications.  
 
-🌱 I’m currently learning **Blockchain technologies, Smart Contracts** and **Distributed systems**. 
+🌱 I’m currently learning **Blockchain technology, Smart Contracts** and **Distributed systems**. 
 
 📫 All of the projects created by me is always available for your help 😁. 
 
