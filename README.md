@@ -1,40 +1,38 @@
-### Hi there 👋
+# 👋 Hi, I'm Keyur Nagar
 
-I am Keyur Nagar, currently working as a Software Engineer at Injala Inc. I am B.Tech Graduate in Computer science and engineering from Ahmedabad University. An excellent problem solver and a passionate web developer who is enthusiastic, punctual, and responsible. I am adaptable to solving challenging problems, and looking for a role where I can grow and learn from the experts.
+### 🚀 Software Engineer @ Injala Inc. | 💻 Full Stack Developer | 💡 Problem Solver
+
+I'm Keyur Nagar, a B.Tech graduate in Computer Science and Engineering from Ahmedabad University. Currently, I'm working as a Software Engineer at **Injala Inc.**, where I’m developing scalable and user-focused web applications. I'm an excellent problem solver and a passionate developer who is enthusiastic, punctual, and responsible. I thrive in challenging environments and am always looking for opportunities to grow and learn from industry experts.
+
+---
+
+## 🔭 Currently Working With:
+- **Backend:** Node.js, Express.js, .NET Core, PostgreSQL, MongoDB, SQL Server, AWS Cognito, AWS SQS, AWS Lambda
+- **Frontend:** ReactJS, NextJS, AngularJS, TailwindCSS, Bootstrap, Typescript, Javascript, Jquery
+- **Devops:** AWS, Linux, Ubuntu, Docker
+- **Full-stack Web Applications** across multiple domains
+
+---
+
+## 🌱 Learning Interests:
+- Blockchain Technology
+- Smart Contracts (Solidity, Hardhat)
+- Distributed Systems & Web3 Development
+
+---
+
+## 💪 Achievements:
+- 🔥 Solved **800+ DSA questions** on various competitive coding platforms
+- 🧠 Always building projects that are publicly available to help others
+
+---
+
+## 📫 Reach Out To Me
+- 📧 Email: [keyurnagar9453@gmail.com](mailto:keyurnagar9453@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/keyur-nagar-97236a1ba/)
+- 💻 [GitHub](https://github.com/Keyur3766)
+- 🌐 [Visit My Portfolio Website](https://keyur-nagar-portfolio.vercel.app/me)
 
 
-<br> 
-<br>
+---
 
-<br>
-
-<br>
-
-🔭 I’m currently working on **ExpressJS, NodeJS, ReactJS, AngularJS, NextJS** and various Web Applications.  
-
-🌱 I’m currently learning **Blockchain technology, Smart Contracts** and **Distributed systems**. 
-
-📫 All of the projects created by me is always available for your help 😁. 
-
-⚡ Solved 800+ DSA questions on various platforms.   
-
-
-
-
-
-
-
-<!--
-**Keyur3766/Keyur3766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
