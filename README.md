@@ -7,7 +7,7 @@ I'm Keyur Nagar, a B.Tech graduate in Computer Science and Engineering from Ahme
 ---
 
 ## 🔭 Currently Working With:
-- **Backend:** Node.js, Express.js, .NET Core, PostgreSQL, MongoDB, SQL Server, AWS Cognito, AWS SQS, AWS Lambda
+- **Backend:** Node.js, Express.js, .NET Core, PostgreSQL, MongoDB, SQL Server, AWS Cognito, AWS SQS, AWS Lambda, Websockets
 - **Frontend:** ReactJS, NextJS, AngularJS, TailwindCSS, Bootstrap, Typescript, Javascript, Jquery
 - **Devops:** AWS, Linux, Ubuntu, Docker
 - **Full-stack Web Applications** across multiple domains
